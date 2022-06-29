@@ -72,6 +72,11 @@ Safety first! Electronics is a potentially dangerous hobby. Any circuit that wor
 * Always work in a well-ventilated space.
 * Have safety equipment such as a fire extinguisher, a first-aid kit, and a phone nearby.
 
+## Reference Instructions
+* https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/
+* https://www.electronicshub.org/raspberry-pi-ultrasonic-sensor-interface-tutorial/
+* https://lancesimms.com/RaspberryPi/HackingRaspberryPi4WithYocto_Introduction.html
+
 
 # Mandatory part
 * You must interface ultrasonic sensor with Raspberry Pi 4 running Raspberry Pi Image (prebuilt).
