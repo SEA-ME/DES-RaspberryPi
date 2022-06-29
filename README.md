@@ -1,2 +1,2 @@
-# project template
-Template repository for a SEA:ME (OER) project.
+# DES-RaspberryPi
+A Distributed Embedded Systems Module Project: Raspberry Pi.
